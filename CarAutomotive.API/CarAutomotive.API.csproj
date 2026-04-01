@@ -15,8 +15,4 @@
     <ProjectReference Include="..\CarAutomotive.Infrastructure\CarAutomotive.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>

@@ -6,6 +6,8 @@
 
         public string LastName { get; set; }
 
+        public string DisplayName { get; set; }
+
         public string? ProfileImageUrl { get; set; }
 
         public bool IsActive { get; set; } = true;
